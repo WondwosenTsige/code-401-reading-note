@@ -27,4 +27,4 @@ __Attributions for the following Reference materials and their authors__
 
 
 
-[>> NEXT (Read-02)](https://wondwosentsige.github.io/code-301-reading-notes/class-02)
+[>> NEXT (Read: Class 02)](https://wondwosentsige.github.io/code-401-reading-note/class-02)
