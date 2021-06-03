@@ -1,37 +1,105 @@
-# Code-401 Reading Notes
+# Code-401 Reading note
 
 ## Table of Contents
 
-[Read-01](https://wondwosentsige.github.io/code-401-reading-note/read-01)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-01)
 
-[Read-02](https://wondwosentsige.github.io/code-401-reading-notes/read-02)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-02)
 
-[Read-03](https://wondwosentsige.github.io/code-401-reading-notes/read-03)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-03)
 
-[Read-04](https://wondwosentsige.github.io/code-401-reading-notes/read-04)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-04)
 
-[Read-05](https://wondwosentsige.github.io/code-401-reading-notes/read-05)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-05)
 
-[Read-06](read-06.md)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-06)
 
-[Read-07](https://wondwosentsige.github.io/code-401-reading-notes/read-07)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-07)
 
-[Read-08](https://wondwosentsige.github.io/code-401-reading-notes/read-08)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-08)
 
-[Read-09](https://wondwosentsige.github.io/code-401-reading-notes/read-09)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-09)
 
-[Read-10](https://wondwosentsige.github.io/code-401-reading-notes/read-10)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-10)
 
-[Read-11](https://wondwosentsige.github.io/code-401-reading-notes/read-11)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-11)
 
-[Read-12](read-12.md)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-12)
 
-[Read-13](https://wondwosentsige.github.io/code-401-reading-notes/read-13)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-13)
 
-[Read-14a](https://wondwosentsige.github.io/code-401-reading-notes/read-14a)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-14)
 
-[Read-14b](https://wondwosentsige.github.io/code-401-reading-notes/read-14b)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-15)
 
-[Read-15](https://wondwosentsige.github.io/code-401-reading-notes/read-15)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-16)
 
-[Read-16](https://wondwosentsige.github.io/code-401-reading-notes/read-16)
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-17)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-18)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-19)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-20)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-21)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-22)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-23)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-24)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-25)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-26)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-27)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-28)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-29)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-30)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-31)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-32)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-33)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-34)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-35)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-36)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-37)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-38)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-39)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-40)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-41)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-42)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-43)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-44)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-45)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-46)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-47)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-48)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-49)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-50)
+
+[READ](https://wondwosentsige.github.io/code-401-reading-note/class-51)
