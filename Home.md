@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Read-01](https://wondwosentsige.github.io/code-401-reading-notes/read-01)
+[Read-01](https://wondwosentsige.github.io/code-401-reading-note/read-01)
 
 [Read-02](https://wondwosentsige.github.io/code-401-reading-notes/read-02)
 
