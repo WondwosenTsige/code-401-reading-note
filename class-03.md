@@ -181,6 +181,6 @@ __Attributions for the following Reference materials and their authors__
 
 [Reading and writing files in Python(Guide) by James Mertz](https://realpython.com/read-write-files-python/)
 
-
+[Python Exceptions by Said van de klundert](https://realpython.com/python-exceptions/)
 
 [>> NEXT (Read: Class 04)](https://wondwosentsige.github.io/code-401-reading-note/class-04)
