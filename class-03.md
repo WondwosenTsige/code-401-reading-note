@@ -3,9 +3,9 @@
 
 ## Read Class 03
 
-### FileIO & Exceptions
+## FileIO & Exceptions
 
-## What is a file?
+### What is a file?
 
 a file is a contiguous set of bytes used to store data. This data is then organized in a specific format and can be anything as simple as a text file or as complicated as a program executable and then translated into binary 1 and 0 for easier processing by the computer.
 
@@ -17,7 +17,7 @@ End of file (EOF): special character that indicates the end of the file
 
 What data represents depends on the format specification used, which is represented by an extension. For example, a file that has an extension of .txt most likely conforms to the text format specification.
 
-## File Paths
+### File Paths
 
 The file path is a string that represents the location of a file. It’s broken up into three major parts:
 
@@ -30,7 +30,7 @@ To access up one directoy up without using the full path, we can use the special
     for example, to accees the contacts.csv file in the directory up, we can use ../contacts.csv is equivalent instead of directory/contacts.csv.
     and if you want to access two directoreies above it will be ../../contacts.csv
 
-## Line Endings
+### Line Endings
 
 One problem often encountered when working with file data is the representation of a new line or line ending.
 
@@ -60,14 +60,14 @@ The same output will be interprated by Unix device as
         Ben Hill\r
         \n
 
-## Character Encodings
+### Character Encodings
 
 Another common problem that you may face is the encoding of the byte data. An encoding is a translation from byte data to human readable characters by assigning a numerical value to represent a character.by assigning a numerical value to represent a character.
 
 The most common encodings are the ASCII(American Standard Code for Information Interchange) and Unicode foramats which can store 128 and upto 1,114,114 characters respectively.
 ASCII is the subset of Unicode(UTF-8), so that they share the first 128 numerical characters.Because of that, if we try to parse it using the ASCII encoding, if there is a character that is outside of those 128 values, then an error will be thrown.
 
-## Opening and Closing a File in Python
+### Opening and Closing a File in Python
 
 Opening a file in Python is invoking the built-in function *open()*. Open() has a single required argument that is the path to the file. open() has a single return, the file object:
 
@@ -100,12 +100,27 @@ There are three different categories of file objects:
     Buffered binary files
     Raw binary files
 
+## Exceptions in Python
 
+A Python program terminates as soon as it encounters an error. In Python, an error can be a syntax error or an exception
 
+In Python, _syntax errors_ occur when the parser detects an incorrect statement and an arrow will indicate us where the parser ran into the syntax error
 
+*Exeption error* occurs whenever syntactically correct Python code results in an error with details of what type of exception error was encountered.
 
+we can raise an exception using *raise* if you want to throw an error when a certain condition occurs, like
 
+    x = 10
+    if x > 5:
+        raise Exception('x should not exceed 5. The value of x was: {}'.format(x))
 
+Running the above code, will halt the program and display the following exception on the screen with clues aboout what went wrong
+
+    Traceback (most recent call last):
+        File "<input>", line 4, in <module>
+    Exception: x should not exceed 5. The value of x was: 10
+
+Assert enable us to verify if a certain condition is True and throw an exception if it is not.
 
 
 
