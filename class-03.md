@@ -120,11 +120,54 @@ Running the above code, will halt the program and display the following exceptio
         File "<input>", line 4, in <module>
     Exception: x should not exceed 5. The value of x was: 10
 
-Assert enable us to verify if a certain condition is True and throw an exception if it is not.
+*assert* enable us to verify if a certain condition is True and throw an exception if it is not like the following example
 
+    import sys
+    assert ('linux' in sys.platform), "This code runs on Linux only."
 
+If we run the above code on a Linux machine, the assertion passes. If we run this code on a Windows machine, the outcome of the assertion would be False and the result would be the following:
 
+    Traceback (most recent call last):
+        File "<input>", line 2, in <module>
+    AssertionError: This code runs on Linux only.
 
+The *try and except* block in Python is used to catch and handle exceptions. Python executes code following the try statement as a “normal” part of the program. The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.
+
+_The good thing in the try and expect case is that the program did not crash. It would be nice to generate an informative message if some type of exception occurred whenever we ran our code_, like "Linux function was not executed", which the following example will print if we try to call it on a different operating system other than Linux.
+
+    try:
+        linux_interaction()
+    except:
+        print('Linux function was not executed
+
+*else* let us to run sections that should run only when no exceptions are encountered in the try clause. like:
+
+        try:
+            linux_interaction()
+        except AssertionError as error:
+            print(error)
+        else:
+            print('Executing the else clause.
+
+*finally* will execute everything in the finally clause, wether we encounter an exception somewhere in the try or else clauses. like:
+
+    try:
+        linux_interaction()
+    except AssertionError as error:
+        print(error)
+    else:
+        try:
+            with open('file.log') as file:
+                read_data = file.read()
+        except FileNotFoundError as fnf_error:
+            print(fnf_error)
+    finally:
+        print('Cleaning up, irrespective of any exceptions.')
+
+The output of the above code is:
+
+    Function can only run on Linux systems.
+    Cleaning up, irrespective of any exceptions.
 
 
 
