@@ -16,6 +16,9 @@ to be done soon.
 
 ### pytest fixtures and coverage
 
+Using lry_cache as a decorator to catch results, we can avoid recomputation in a recursive function by explicitly checking for the value before trying to compute it. (May be Roger need to clarify this for me as I dont get the whole idea because I really do not undersatnd it because I thought recursive functions are efficient by themselves)
+
+Pesky details:- I need clarrification on this
 
 #### Fixtures
 
