@@ -1,7 +1,4 @@
-
-# [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
-
-## Read Class 03
+# Read Class 03
 
 ## FileIO & Exceptions
 

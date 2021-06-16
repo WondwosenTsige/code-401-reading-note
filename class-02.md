@@ -1,6 +1,4 @@
-# [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
-
-## Read Class 02
+# Read Class 02
 
 ### Testing and Modules
 
