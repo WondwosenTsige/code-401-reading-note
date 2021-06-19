@@ -1,6 +1,4 @@
-# [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
-
-## Read Linked Lists
+# Read Linked Lists
 
 ## What is a linked list
 
