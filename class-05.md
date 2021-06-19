@@ -1,4 +1,6 @@
-# Read Linked Lists
+# [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
+
+## Read Linked Lists
 
 ## What is a linked list
 
@@ -24,7 +26,7 @@ The best way to approach a traversal is through the use of a while() loop. This 
 
 When traversing through a linked list, the Current variable will tell us where exactly in the linked list we are and will allow us to move/traverse forward until we hit the end.
 
-I read all the topics in the following reference
+I cover all the topics in the following reference
 
 [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
 
