@@ -14,7 +14,7 @@
 
 [Read: Class 04](https://wondwosentsige.github.io/code-401-reading-note/class-04)
 
-[Read: Linked List](https://wondwosentsige.github.io/code-401-reading-note/class-05)
+[Read: class 05 Linked List](https://wondwosentsige.github.io/code-401-reading-note/class-05)
 
 [Read: Class 06](https://wondwosentsige.github.io/code-401-reading-note/class-06)
 
