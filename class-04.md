@@ -56,7 +56,7 @@ __Attributions for the following Reference materials and their authors__
 
 
 
-[>> NEXT (Read: Class 05)](https://wondwosentsige.github.io/code-401-reading-note/class-05)
+[>> NEXT (Read: Linked List)](https://wondwosentsige.github.io/code-401-reading-note/class-05)
 
 
 
