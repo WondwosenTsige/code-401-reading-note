@@ -9,7 +9,7 @@ The Random module contains some very useful functions like:-
     Randint - accepts two paramrters, a lowest and highest number to generate a random integer
 
         import random
-        print random.randint(3, 10) -----> probable outputs  4,5,6,7,8,9,10 or some other random order
+        print random.randint(3, 10) -----> probable outputs  3,4,5,6,7,8,9,10
 
     Random - Use this one if we want a large number.
 
