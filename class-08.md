@@ -71,7 +71,6 @@ This example show how to extract all the numbers from a string.
     print numbers                                   outputs -------->["1","2","3","4","5"]
 
 
-
 ...............................................................................
 
 __Attributions for the following Reference materials and their authors__
