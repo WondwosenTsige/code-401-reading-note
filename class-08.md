@@ -75,7 +75,7 @@ This example show how to extract all the numbers from a string.
 
 __Attributions for the following Reference materials and their authors__
 
-[Linked Lists](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+[Python for beginners](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 
 
 [>> NEXT (Read: Class 09)](https://wondwosentsige.github.io/code-401-reading-note/class-09)
