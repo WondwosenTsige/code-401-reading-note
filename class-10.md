@@ -8,15 +8,15 @@ A __stack__ is a data structure that consists of Nodes. Each Node references the
 
 Common terminology for a stack:
 
-    - __Push__: Nodes or items that are put into the stack are pushed.
+__Push__: Nodes or items that are put into the stack are pushed.
 
-    - __Pop__: Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
+__Pop__: Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
 
-    - __Top__: This is the top of the stack.
+__Top__: This is the top of the stack.
 
-    - __Peek__: When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
+__Peek__: When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
 
-    - __IsEmpty__: returns true when stack is empty otherwise returns false.
+__IsEmpty__: returns true when stack is empty otherwise returns false.
 
 
 
