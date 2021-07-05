@@ -14,13 +14,23 @@ The “informal” or nicely printable string representation of an object is the
 
 In order to iterate over our object in python, we need __len__, __getitem__, and __reversed__ dunders
 
+We can make an object callable like a regular function by adding the __call__ dunder method
 
+## Statistics - Probability
 
+At the most basic level, probability seeks to answer the question, “What is the chance of an event happening?”
 
+An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur.
 
+To calculate the probability of an event occurring, we count how many times are event of interest can occur (say flipping heads) and dividing it by the sample space.
 
+In a coin toss the only events that can happen are:
 
+    flipping a heads
 
+    flipping a tails
+
+An ideal coin will have a 1-in-2 chance of being heads or tails
 
 
 
@@ -38,5 +48,6 @@ __Attributions for the following Reference materials and their authors__
 
 [Enriching Your Python Classes With Dunder (Magic, Special) Methods - Bob Belderbos](https://dbader.org/blog/python-dunder-methods)
 
+[Tutorial: Basic Statistics in Python — Probability - DATAQUEST](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 
 [>> NEXT (Read: Class 10)](https://wondwosentsige.github.io/code-401-reading-note/class-10)
