@@ -30,8 +30,7 @@ Another methods that we can use to create NumPy arrays is to create an array whe
 
 It’s useful to create an array with all zero elements in cases when you need an array of fixed size, but don’t have any values for it yet.
 
-
-
+I need more reading here
 
 
 
@@ -57,6 +56,5 @@ It’s useful to create an array with all zero elements in cases when you need a
 __Attributions for the following Reference materials and their authors__
 
 [Numpy tutorial:Data analysis with python - DATAQUEST](https://www.dataquest.io/blog/numpy-tutorial-python/)
-
-
+[Jupyterlab docs](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 [>> NEXT (Read: Class 12)](https://wondwosentsige.github.io/code-401-reading-note/class-12)
