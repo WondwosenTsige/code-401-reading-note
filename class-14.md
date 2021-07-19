@@ -20,6 +20,8 @@ we can instantiated all the figure settings that influence the appearance of the
     plt.plot(X, C, color="blue", linewidth=2.5, linestyle="-")
     plt.plot(X, S, color="red",  linewidth=2.5, linestyle="-")
 
+[Customizing Matplotlib](https://matplotlib.org/stable/tutorials/introductory/customizing.html)
+
 
 
 
