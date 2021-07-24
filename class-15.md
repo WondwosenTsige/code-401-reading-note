@@ -26,6 +26,12 @@ __Depth first__
 
 Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root.
 
+Here are three methods for depth first traversal:
+
+    Pre-order: root >> left >> right
+    In-order: left >> root >> right
+    Post-order: left >> right >> root
+
 The most common way to traverse through a tree is to use recursion. With these traversals, we rely on the call stack to navigate back up the tree when we have reached the end of a sub-path.
 
         ALGORITHM preOrder(root)
