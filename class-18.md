@@ -33,9 +33,25 @@ Since then, cryptologists have invented many more symmetric encryption technique
 
 Public key encryption is an asymmetric encryption technique which uses different keys for encryption and decryption, allowing computers over the Internet to securely communicate with each other.
 
+High-level process of public key encryption steps are:-
+
+    1. Key generation
+        Each person (or their computer) must generate a pair of keys that identifies them: a private key and a public key.
+
+    2. Key exchange
+        The sending and receiving computers exchange public keys with each other via a reliable channel, like TCP/IP. The private keys are never exchanged.
+
+    3. Encryption
+        The sending computer encrypts the secret data using the receiving computer's public key and a mathematical operation.
+
+    4. Sending encrypted data
+        The sender can now safely transmit the encrypted data over the Internet without worry of onlookers.
+
+    5. Decryption
+        Now the receiver can decrypt the message, using their private key. That's the only key that can be used to decrypt the message (in the world!).
 
 
-
+[Cryptography crash course](https://www.youtube.com/watch?v=jhXCTbFnK8o)
 
 
 
