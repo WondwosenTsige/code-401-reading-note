@@ -74,4 +74,4 @@ __Attributions for the following Reference materials and their authors__
 
 [Introduction to Cryptography](https://thebestvpn.com/cryptography/)
 
-[>> NEXT (Read: Class 16)](https://wondwosentsige.github.io/code-401-reading-note/class-16)
+[>> NEXT (Read: Class 19)](https://wondwosentsige.github.io/code-401-reading-note/class-19)
