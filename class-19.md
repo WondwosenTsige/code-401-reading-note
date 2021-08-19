@@ -2,6 +2,8 @@
 
 ## Read 19: Automation
 
+[Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s)
+
 ### Regular Expressions in Python
 
 Regular Expressions, often shortened as regex, are a sequence of characters used to check whether a pattern exists in a given text (string) or not. If you've ever used search engines, search and replace tools of word processors and text editors - you've already seen regular expressions in use. They are used at the server side to validate the format of email addresses or passwords during registration, used for parsing text data files to find, replace, or delete certain string, etc. They help in manipulating textual data, which is often a prerequisite for data science projects involving text mining.
@@ -40,12 +42,37 @@ Else if the character following the \ is not a recognized escape character, then
 
 \ can be used in front of all the metacharacters to remove their special meaning.
 
+There is a predefined set of special sequences that begin with '\' and are also very helpful when performing search and match. Let's look at some of them up close...
 
+\w - Lowercase 'w'. Matches any single letter, digit, or underscore.
 
+\W - Uppercase 'W'. Matches any character not part of \w (lowercase w).
 
+\s - Lowercase 's'. Matches a single whitespace character like: space, newline, tab, return.
 
+\S - Uppercase 'S'. Matches any character not part of \s (lowercase s).
 
+\d - Lowercase d. Matches decimal digit 0-9.
 
+\D - Uppercase d. Matches any character that is not a decimal digit.
+
+\t - Lowercase t. Matches tab.
+
+\n - Lowercase n. Matches newline.
+
+\r - Lowercase r. Matches return.
+
+\A - Uppercase a. Matches only at the start of the string. Works across multiple lines as well.
+
+\Z - Uppercase z. Matches only at the end of the string.
+
+*TIP: ^ and \A are effectively the same, and so are $ and \Z. Except when dealing with MULTILINE mode. Learn more about it in the flags section.*
+
+\b - Lowercase b. Matches only the beginning or end of the word.
+
+Refer to the examples in the following link
+
+[Python Regular Expression Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
 
 
 ...............................................................................
@@ -53,6 +80,7 @@ Else if the character following the \ is not a recognized escape character, then
 __Attributions for the following Reference materials and their authors__
 
 [Python Regular Expression Tutorial](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
+
 
 []()
 
