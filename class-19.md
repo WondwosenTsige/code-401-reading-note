@@ -84,4 +84,4 @@ __Attributions for the following Reference materials and their authors__
 
 []()
 
-[>> NEXT (Read: Class 20)](https://wondwosentsige.github.io/code-401-reading-note/class-20)
+[>> NEXT (Read: Class 26)](https://wondwosentsige.github.io/code-401-reading-note/class-26)

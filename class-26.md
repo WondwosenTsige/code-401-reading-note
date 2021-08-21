@@ -1,6 +1,26 @@
 # [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
 
-## Read 19: Automation
+## Read 26: Django
+
+### what is Django?
+
+Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel.
+
+Django helps us write software that is:
+
+    Complete
+
+    Versatile
+
+    Secure
+
+    Scalable
+
+    Maintainable and
+
+    Portable
+
+
 
 
 
@@ -20,8 +40,8 @@
 
 __Attributions for the following Reference materials and their authors__
 
-[Encryption, descyption, and cracking](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:data-encryption-techniques/a/encryption-decryption-and-code-cracking)
+[Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 
-[Introduction to Cryptography](https://thebestvpn.com/cryptography/)
+[Getting started with Django](https://www.djangoproject.com/start/)
 
-[>> NEXT (Read: Class 20)](https://wondwosentsige.github.io/code-401-reading-note/class-20)
+[>> NEXT (Read: Class 27)](https://wondwosentsige.github.io/code-401-reading-note/class-27)

@@ -1,9 +1,8 @@
 # [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
 
-## Read 19: Automation
+## Read 26: Django
 
-### test
-### TEST2
+
 
 
 
@@ -25,4 +24,4 @@ __Attributions for the following Reference materials and their authors__
 
 [Introduction to Cryptography](https://thebestvpn.com/cryptography/)
 
-[>> NEXT (Read: Class 20)](https://wondwosentsige.github.io/code-401-reading-note/class-20)
+[>> NEXT (Read: Class 20)](https://wondwosentsige.github.io/code-401-reading-note/class-27)
