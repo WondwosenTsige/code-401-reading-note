@@ -16,7 +16,7 @@ Django helps us write software that is:
 
     Scalable
 
-    Maintainable somechakhe
+    Maintainable 
 
     Portable
 
