@@ -22,7 +22,7 @@ needs to read more on the following resources
 
 [A Complete Beginner's Guide to Django - Part 2](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 
-
+.....
 
 
 
