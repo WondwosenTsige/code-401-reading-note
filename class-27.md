@@ -1,6 +1,6 @@
 # [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
 
-## Read 19: Django Models
+## Read 27: Django Models
 
 Django web applications access and manage data through Python objects referred to as models. Models define the structure of stored data, including the field types and possibly also their maximum size, default values, selection list options, help text for documentation, label text for forms, etc
 
