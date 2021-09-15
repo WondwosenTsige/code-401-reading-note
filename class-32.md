@@ -20,4 +20,4 @@ __Attributions for the following Reference materials and their authors__
 
 [Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
 
-[>> NEXT (Read: Class 31)](https://wondwosentsige.github.io/code-401-reading-note/class-31)
+[>> NEXT (Read: Class 33)](https://wondwosentsige.github.io/code-401-reading-note/class-33)
