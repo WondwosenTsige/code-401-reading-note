@@ -74,6 +74,26 @@ more reading on the following link
 
 [How to Use JWT Authentication with Django REST Framework: Vitor Feritas](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
 
+
+You’ve built your Django web app and are working on deploying it.
+
+You’ve been running your app locally with python manage.py runserver. That’s a fine command, built for development convenience, but it’s not meant to be used as part of a production setup.
+
+So the server started with runserver is not guaranteed to be performant (it’s very slow), and it hasn’t been built with security concerns in mind. Not a good fit for production use.
+
+So, what’s the right way to approach this?
+
+A Production Stack
+
+You want to only use tech in production, which is reliable, well tested and has been around for a while.
+
+A production setup usually consists of multiple components, each designed and built to be really good at one specific thing. They are fast, reliable and very focused.
+
+When a request arrives at your server, it should be passed to a dedicated web server. Nginx is an example for a good web server.
+
+This is an application, which is great at serving static files from disk (your css and js files for example) and handling multiple requests at once. If the request is not for a static file, but should be processed by your application, the webserver is configured to pass this request to the next component.
+
+The next component is an application server. It gets those fancy requests and uses them to construct Python objects which are usable by Django. WSGI is a specification which people agreed on, which describe how that happens. Gunicorn is an example for a WSGI server.
 ...............................................................................
 
 __Attributions for the following Reference materials and their authors__
@@ -81,6 +101,8 @@ __Attributions for the following Reference materials and their authors__
 [Introduction to JSON web tokens](https://jwt.io/introduction/)
 
 [How to Use JWT Authentication with Django REST Framework: Vitor Feritas](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+
+[Django Runserver Is Not Your Production Server](https://build.vsupalov.com/django-runserver-in-production/)
 
 
 [>> NEXT (Read: Class 34)](https://wondwosentsige.github.io/code-401-reading-note/class-34)
