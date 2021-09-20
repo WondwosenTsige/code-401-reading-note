@@ -14,4 +14,4 @@ __Attributions for the following Reference materials and their authors__
 
 [Basic of Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
-[>> NEXT (Read: Class 31)](https://wondwosentsige.github.io/code-401-reading-note/class-31)
+[>> NEXT (Read: Class 35)](https://wondwosentsige.github.io/code-401-reading-note/class-35)
