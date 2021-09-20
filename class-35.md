@@ -11,14 +11,43 @@ Here is some common terminology used when working with Graphs:
     3. Neighbor - The neighbors of a node are its adjacent nodes, i.e., are connected via an edge.
     4. Degree - The degree of a vertex is the number of edges connected to that vertex.
 
+### Directed vs Undirected
+
+Undirected Graphs
+
+An Undirected Graph is a graph where each edge is undirected or bi-directional. This means that the undirected graph does not move in any direction.
+
+For example, in the graph below, Node C is connected to Node A, Node E and Node B. There are no “directions” given to point to specific vertices. The connection is bi-directional.
+
+The undirected graph we are looking at has 6 vertices and 7 undirected edges.
+
+Vertices/Nodes = {a,b,c,d,e,f}
+
+Edges = {(a,c),(a,d),(b,c),(b,f),(c,e),(d,e),(e,f)}
+
+Directed Graphs (Digraph)
+
+A Directed Graph also called a Digraph is a graph where every edge is directed.
+
+Unlike an undirected graph, a Digraph has direction. Each node is directed at another node with a specific requirement of what node should be referenced next.
+
+Compare the visual below with the undirected graph above. Can you see the difference? The Digraph has arrows pointing to specific nodes.
+
+The directed graph above has six vertices and eight directed edges
+
+Vertices = {a,b,c,d,e,f}
+
+Edges = {(a,c),(b,c),(b,f),(c,e),(d,a),(d,e)(e,c)(e,f)}
+
+Refer the following resource link
+
 [Graphs: Codefellows](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
 
 ...............................................................................
 
 __Attributions for the following Reference materials and their authors__
 
-[Hashtables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+[Graphs: Codefellows](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
 
-[Basic of Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
 
 [>> NEXT (Read: Class 36)](https://wondwosentsige.github.io/code-401-reading-note/class-36)
