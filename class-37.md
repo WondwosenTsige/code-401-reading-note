@@ -1,16 +1,17 @@
 # [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
 
-## Read 35: Graphs
+## Read 35: React I
 
-
+ES6 Syntax and Feature Overview
+Read topics to handling events from the react link below
 
 
 ...............................................................................
 
 __Attributions for the following Reference materials and their authors__
 
-[Hashtables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+[REACT](https://reactjs.org/docs/hello-world.html)
 
-[Basic of Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+[ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
 
 [>> NEXT (Read: Class 38)](https://wondwosentsige.github.io/code-401-reading-note/class-38)
