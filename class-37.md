@@ -1,6 +1,6 @@
 # [Table of Contents](https://wondwosentsige.github.io/code-401-reading-notes/Home)
 
-## Read 35: React I
+## Read 37: React I
 
 ES6 Syntax and Feature Overview
 
