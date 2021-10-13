@@ -82,4 +82,4 @@ __Attributions for the following Reference materials and their authors__
 
 [Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
 
-[>> NEXT (Read: Class 40)](https://wondwosentsige.github.io/code-401-reading-note/class-40)
+[>> NEXT (Read: Class 41)](https://wondwosentsige.github.io/code-401-reading-note/class-41)
